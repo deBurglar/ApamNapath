@@ -1,0 +1,6 @@
+## DAY1
+###  Substep A1.1 — Create a Static 2D Radiation Grid
+  This represents a spatial scalar field, where each cell (i, j) in the grid holds a radiation intensity value (in microSieverts per hour — μSv/hr).
+
+The center of the grid is assumed to be the origin of a radiation leak, like from a reactor or detonation. Over time, this energy will diffuse outward — but for now, we're just defining the initial condition.
+  
